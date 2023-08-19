@@ -5,8 +5,7 @@ Some of the projects I have worked on are under an NDA.
 
 Quick Summary / FAQ:
 
-- I am an undergrad student waiting for graduation, I am doing freelance to pay off my student loans. 
-- Currently looking to transition into software engineering.
+- I am doing freelance to help pay off my student debt.
 - Yes, I work everyday. Yes, I would like more work. Yes, I manage my time effectively 🤣
 
 <!--

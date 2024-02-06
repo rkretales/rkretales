@@ -1,12 +1,4 @@
-### I am currently doing freelance as a Unity Game Developer. Email me at rkretales@gmail.com if you're interested
 
-Unfortunately some of the projects I have worked are either on a different account or on Azure DevOps so the contribution activity you see on my profile is inaccurate.
-Some of the projects I have worked on are under an NDA.
-
-Quick Summary / FAQ:
-
-- I am doing freelance to help pay off my student debt.
-- Yes, I work everyday. Yes, I would like more work. Yes, I manage my time effectively 🤣
 
 <!--
 **rkretales/rkretales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
